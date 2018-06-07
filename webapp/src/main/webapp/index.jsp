@@ -1,2 +1,2 @@
 Hello, World!
-My name is Quang Nguyen, I am working at DBS
+I am SE1, friendly
